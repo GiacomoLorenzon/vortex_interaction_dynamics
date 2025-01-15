@@ -1,1 +1,0 @@
-qcc -O2 -Wall -o NS2D_1 NS2D_1.c -lm
