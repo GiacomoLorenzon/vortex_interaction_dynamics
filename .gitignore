@@ -52,8 +52,8 @@ Mkfile.old
 dkms.conf
 
 # Other
-.zip
-.mp4
-.fig
-.eps
-.out
+*.zip
+*.mp4
+*.fig
+*.eps
+*.out
